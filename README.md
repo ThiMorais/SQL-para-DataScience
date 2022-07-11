@@ -1,3 +1,3 @@
 # SQL
 
-### Comandos básicos aprendidos em SQL.
+### Comandos básicos aprendidos em SQLite.
